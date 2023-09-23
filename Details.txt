@@ -1,0 +1,84 @@
+
+Recap:
+  trim
+
+Topics:
+  declaration:
+    allocation of memory or a space
+  
+  initialization:
+    putting the value inside the memory
+
+  datatypes in javascript:
+
+    primitive types:
+      number
+      string
+      boolean
+      undefined/null
+
+      var x = 10;
+      var name = 'B42WEENG';
+      var isWeekend = true;
+  
+    Composite Types:
+      combining multiple primitive type values
+
+      Array: 
+        it is sequential memory location
+
+        Array index always starts from 0
+
+        indexes are used for accessing values of an array
+
+        array can contain elements of multiple types
+      eg:
+        var arr = ['Pravin', 'Adya', 'Aravinthan'];
+
+  {} ---> block of lines, used for Object
+
+  [] ---> Array of elements
+
+  () ---> methods/functions
+
+  function & function return
+
+  var, let, const
+
+  Operators:
+
+    Arithemetic: +, -, *, /, %( 5 % 2 ---> 1 ( remainder) )
+    Assignment: =
+    Logical Bitwise: &(and), |(or), !(not)
+    compariason: >, <, >=, <=, !=, == ( compares without type ), === ( compares with type ) // results in boolean value
+    conditional:  &&, ||, combining two or conditions
+    Boolean: true or false, 0 or 1, false --> undefined, null
+
+  looping, conditions, simple problems
+
+    looping: it is a process of repeating a block statements again and again until condition satisfies
+
+    concepts in looping
+      initialization, termination condition, inc/drec
+
+    for -> looping statements
+
+    if else -> conditional executing conditionally
+
+    how many times or when to stop the looping
+
+    iterating/looping thorugh a array or string:
+    
+      String:
+        B52WETAMIL
+
+      Array:
+        [1, 2, 3, 4, 5]
+
+Task:
+
+  Codekata Problems:
+
+    Input/output - Finish All the Problems
+
+    Looping: Finish 5 problems
